@@ -1,0 +1,214 @@
+[
+  {
+    "id": "m01",
+    "name": "Sofá Nórdico Oslo",
+    "category": "Salas",
+    "price": 3850,
+    "description": "Sofá de tres cuerpos, líneas limpias y tapizado suave en tono arena.",
+    "material": "Estructura de madera reforzada · Tela premium",
+    "colors": [
+      "Arena",
+      "Gris humo",
+      "Verde oliva"
+    ],
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Más elegido"
+  },
+  {
+    "id": "m02",
+    "name": "Sofá Modular Terra",
+    "category": "Salas",
+    "price": 5200,
+    "description": "Módulos versátiles para crear una sala amplia y contemporánea.",
+    "material": "Madera sólida · Tapizado de alta resistencia",
+    "colors": [
+      "Beige",
+      "Grafito"
+    ],
+    "image": "https://images.unsplash.com/photo-1550254478-ead40cc54513?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Diseño moderno"
+  },
+  {
+    "id": "m03",
+    "name": "Sillón Nube",
+    "category": "Salas",
+    "price": 2190,
+    "description": "Butaca individual de respaldo envolvente y textura acogedora.",
+    "material": "Madera · Espuma de alta densidad",
+    "colors": [
+      "Crema",
+      "Terracota",
+      "Gris"
+    ],
+    "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Confort"
+  },
+  {
+    "id": "m04",
+    "name": "Mesa de Centro Roble",
+    "category": "Salas",
+    "price": 980,
+    "description": "Mesa de centro con acabado cálido y diseño minimalista.",
+    "material": "MDF enchapado · Patas de madera",
+    "colors": [
+      "Roble natural",
+      "Nogal"
+    ],
+    "image": "https://images.unsplash.com/photo-1499933374294-4584851497cc?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Acabado natural"
+  },
+  {
+    "id": "m05",
+    "name": "Comedor Álamo 6 puestos",
+    "category": "Comedores",
+    "price": 4650,
+    "description": "Conjunto de mesa amplia y seis sillas de silueta elegante.",
+    "material": "Madera maciza · Tapizado lavable",
+    "colors": [
+      "Madera natural",
+      "Nogal oscuro"
+    ],
+    "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Para compartir"
+  },
+  {
+    "id": "m06",
+    "name": "Comedor Siena 4 puestos",
+    "category": "Comedores",
+    "price": 3280,
+    "description": "Proporciones compactas para espacios familiares y departamentos.",
+    "material": "Madera tratada · Sillas tapizadas",
+    "colors": [
+      "Roble claro",
+      "Blanco"
+    ],
+    "image": "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Espacios pequeños"
+  },
+  {
+    "id": "m07",
+    "name": "Aparador Lino",
+    "category": "Comedores",
+    "price": 2480,
+    "description": "Almacenamiento funcional con puertas discretas y acabado elegante.",
+    "material": "MDF premium · Herrajes metálicos",
+    "colors": [
+      "Nogal",
+      "Blanco cálido"
+    ],
+    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Orden y estilo"
+  },
+  {
+    "id": "m08",
+    "name": "Cama King Aurora",
+    "category": "Dormitorios",
+    "price": 3980,
+    "description": "Cabecera acolchada y estructura firme para un dormitorio sereno.",
+    "material": "Madera reforzada · Tela de fácil limpieza",
+    "colors": [
+      "Beige",
+      "Gris perla"
+    ],
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Descanso premium"
+  },
+  {
+    "id": "m09",
+    "name": "Velador Dúo",
+    "category": "Dormitorios",
+    "price": 690,
+    "description": "Mesa auxiliar compacta con cajón y espacio de almacenamiento.",
+    "material": "MDF · Correderas metálicas",
+    "colors": [
+      "Roble",
+      "Blanco"
+    ],
+    "image": "https://images.unsplash.com/photo-1499933374294-4584851497cc?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Complemento"
+  },
+  {
+    "id": "m10",
+    "name": "Cómoda Siena",
+    "category": "Dormitorios",
+    "price": 1750,
+    "description": "Cómoda de cuatro cajones para organizar con estilo.",
+    "material": "MDF laminado · Tiradores metálicos",
+    "colors": [
+      "Nogal claro",
+      "Blanco"
+    ],
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Funcional"
+  },
+  {
+    "id": "m11",
+    "name": "Escritorio Loft",
+    "category": "Oficina",
+    "price": 1450,
+    "description": "Superficie amplia para estudiar o trabajar desde casa.",
+    "material": "Tablero resistente · Estructura metálica",
+    "colors": [
+      "Roble y negro",
+      "Blanco"
+    ],
+    "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Home office"
+  },
+  {
+    "id": "m12",
+    "name": "Silla Ejecutiva Ergo",
+    "category": "Oficina",
+    "price": 1280,
+    "description": "Respaldo ergonómico, soporte regulable y ruedas de desplazamiento.",
+    "material": "Malla transpirable · Base reforzada",
+    "colors": [
+      "Negro",
+      "Gris"
+    ],
+    "image": "https://images.unsplash.com/photo-1505843490701-5be5d1b7e6c0?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Ergonomía"
+  },
+  {
+    "id": "m13",
+    "name": "Biblioteca Nativa",
+    "category": "Organización",
+    "price": 1890,
+    "description": "Estantería abierta para libros, decoración y objetos personales.",
+    "material": "MDF de alta densidad · Acabado mate",
+    "colors": [
+      "Roble",
+      "Negro"
+    ],
+    "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Orden visual"
+  },
+  {
+    "id": "m14",
+    "name": "Mueble TV Boreal",
+    "category": "Organización",
+    "price": 2150,
+    "description": "Mueble bajo con compartimentos para organizar tu zona multimedia.",
+    "material": "MDF enchapado · Pasacables",
+    "colors": [
+      "Nogal",
+      "Roble claro"
+    ],
+    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Zona multimedia"
+  },
+  {
+    "id": "m15",
+    "name": "Consola Entrada Alba",
+    "category": "Organización",
+    "price": 1120,
+    "description": "Consola estrecha para recibidores, decoración y objetos cotidianos.",
+    "material": "Madera · Detalles metálicos",
+    "colors": [
+      "Madera natural",
+      "Negro"
+    ],
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1100&q=85",
+    "tag": "Toque especial"
+  }
+]

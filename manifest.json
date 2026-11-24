@@ -1,0 +1,17 @@
+{
+  "name": "Mueblería Casa Nativa",
+  "short_name": "Casa Nativa",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e8",
+  "theme_color": "#304c43",
+  "description": "Catálogo de muebles, diseño y hogar.",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
